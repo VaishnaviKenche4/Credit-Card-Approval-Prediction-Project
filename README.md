@@ -1,1 +1,2 @@
 # Credit-Card-Approval-Prediction-Project
+This project aims to predict credit card approval using machine learning. Data is collected from various sources including applicant information and financial records. After preprocessing the data, machine learning models are trained and evaluated. The best-performing model is deployed for real-time prediction. Ongoing monitoring ensures the model's effectiveness and reliability.
